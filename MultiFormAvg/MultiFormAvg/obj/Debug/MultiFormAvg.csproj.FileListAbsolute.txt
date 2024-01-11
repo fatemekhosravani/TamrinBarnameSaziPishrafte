@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\MultiFormAvg\MultiFormAvg\bin\Debug\MultiFormAvg.exe.config
+C:\Users\asus\source\repos\MultiFormAvg\MultiFormAvg\bin\Debug\MultiFormAvg.exe
+C:\Users\asus\source\repos\MultiFormAvg\MultiFormAvg\bin\Debug\MultiFormAvg.pdb
+C:\Users\asus\source\repos\MultiFormAvg\MultiFormAvg\obj\Debug\MultiFormAvg.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\MultiFormAvg\MultiFormAvg\obj\Debug\MultiFormAvg.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\source\repos\MultiFormAvg\MultiFormAvg\obj\Debug\MultiFormAvg.Form1.resources
+C:\Users\asus\source\repos\MultiFormAvg\MultiFormAvg\obj\Debug\MultiFormAvg.Properties.Resources.resources
+C:\Users\asus\source\repos\MultiFormAvg\MultiFormAvg\obj\Debug\MultiFormAvg.Result.resources
+C:\Users\asus\source\repos\MultiFormAvg\MultiFormAvg\obj\Debug\MultiFormAvg.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\MultiFormAvg\MultiFormAvg\obj\Debug\MultiFormAvg.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\MultiFormAvg\MultiFormAvg\obj\Debug\MultiFormAvg.exe
+C:\Users\asus\source\repos\MultiFormAvg\MultiFormAvg\obj\Debug\MultiFormAvg.pdb
