@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibo", "WindowsFormsApp1\Fibo.csproj", "{FBD1E8CC-A79F-443D-B946-D71C7E3DD27D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBD1E8CC-A79F-443D-B946-D71C7E3DD27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD1E8CC-A79F-443D-B946-D71C7E3DD27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD1E8CC-A79F-443D-B946-D71C7E3DD27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD1E8CC-A79F-443D-B946-D71C7E3DD27D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3032F73-FFA8-473E-A118-403D90B3F1A8}
+	EndGlobalSection
+EndGlobal
